@@ -2,9 +2,8 @@ name: Weekly Sales Report
 
 on:
   schedule:
-    # Every Monday 00:00 UTC = 07:00 WIB
-    - cron: "0 0 * * 1"
-  workflow_dispatch:  # manual trigger for testing
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
 
 jobs:
   send-report:
@@ -18,7 +17,7 @@ jobs:
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: '3.12'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
