@@ -1,0 +1,48 @@
+name: Weekly Sales Report
+
+on:
+  schedule:
+    # Every Monday 00:00 UTC = 07:00 WIB
+    - cron: "0 0 * * 1"
+  workflow_dispatch:  # manual trigger for testing
+
+jobs:
+  send-report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Write credential files from secrets
+        env:
+          SERVICE_ACCOUNT_KEY_JSON: ${{ secrets.SERVICE_ACCOUNT_KEY_JSON }}
+          GMAIL_TOKEN_JSON: ${{ secrets.GMAIL_TOKEN_JSON }}
+        run: |
+          echo "$SERVICE_ACCOUNT_KEY_JSON" > service-account-key.json
+          echo "$GMAIL_TOKEN_JSON" > gmail_token.json
+
+      - name: Run SalesPulse pipeline
+        env:
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          SENDER_EMAIL: ${{ secrets.SENDER_EMAIL }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+          CREDS_FILE: service-account-key.json
+        run: python main.py
+
+      - name: Upload logs (always)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-logs
+          path: logs/
+          retention-days: 30
