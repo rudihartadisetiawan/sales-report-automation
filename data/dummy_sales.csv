@@ -1,0 +1,631 @@
+tanggal,nama_produk,kategori,jumlah_terjual,harga_satuan,total
+2026-06-17,Headset Bluetooth,Elektronik,3,192149,576447
+2026-06-17,Mouse Wireless,Elektronik,5,129729,648645
+2026-06-17,Power Bank 10000mAh,Elektronik,1,248547,248547
+2026-06-17,Headset Bluetooth,Elektronik,5,172973,864865
+2026-06-17,Lampu LED,Rumah Tangga,2,50833,101666
+2026-06-17,Kipas Angin Meja,Elektronik,5,158717,793585
+2026-06-17,Sneakers,Fashion,7,305686,2139802
+2026-06-17,Headset Bluetooth,Elektronik,5,192660,963300
+2026-06-17,Sneakers,Fashion,3,311820,935460
+2026-06-17,Celana Jeans,Fashion,4,220043,880172
+2026-06-17,Power Bank 10000mAh,Elektronik,3,239471,718413
+2026-06-17,Lampu LED,Rumah Tangga,1,52927,52927
+2026-06-17,Kipas Angin Meja,Elektronik,1,153993,153993
+2026-06-17,Sneakers,Fashion,6,298434,1790604
+2026-06-17,Lampu LED,Rumah Tangga,3,58391,175173
+2026-06-18,Kipas Angin Meja,Elektronik,2,144324,288648
+2026-06-18,Kemeja Flanel,Fashion,2,177809,355618
+2026-06-18,Power Bank 10000mAh,Elektronik,4,240300,961200
+2026-06-18,Tas Ransel,Fashion,2,205424,410848
+2026-06-18,Celana Jeans,Fashion,3,229558,688674
+2026-06-18,Kipas Angin Meja,Elektronik,1,165829,165829
+2026-06-18,Lampu LED,Rumah Tangga,5,56187,280935
+2026-06-18,Kipas Angin Meja,Elektronik,4,148671,594684
+2026-06-18,Sneakers,Fashion,6,308221,1849326
+2026-06-18,Tas Ransel,Fashion,1,189517,189517
+2026-06-18,Kaos Polos,Fashion,5,78861,394305
+2026-06-18,Kemeja Flanel,Fashion,5,153547,767735
+2026-06-18,Kipas Angin Meja,Elektronik,4,150404,601616
+2026-06-18,Sneakers,Fashion,5,339695,1698475
+2026-06-18,Kemeja Flanel,Fashion,5,155486,777430
+2026-06-19,Kipas Angin Meja,Elektronik,5,157097,785485
+2026-06-19,Sneakers,Fashion,5,312934,1564670
+2026-06-19,Botol Minum 1L,Rumah Tangga,1,60745,60745
+2026-06-19,Power Bank 10000mAh,Elektronik,2,231391,462782
+2026-06-19,Tas Ransel,Fashion,1,192571,192571
+2026-06-19,Sneakers,Fashion,7,313938,2197566
+2026-06-19,Kemeja Flanel,Fashion,1,177436,177436
+2026-06-19,Tas Ransel,Fashion,5,201886,1009430
+2026-06-19,Kemeja Flanel,Fashion,3,172091,516273
+2026-06-19,Power Bank 10000mAh,Elektronik,2,236905,473810
+2026-06-19,Botol Minum 1L,Rumah Tangga,3,59833,179499
+2026-06-19,Set Pisau Dapur,Rumah Tangga,5,151077,755385
+2026-06-19,Power Bank 10000mAh,Elektronik,3,259524,778572
+2026-06-19,Tas Ransel,Fashion,2,195239,390478
+2026-06-19,Mouse Wireless,Elektronik,2,122478,244956
+2026-06-20,Set Pisau Dapur,Rumah Tangga,7,154709,1082963
+2026-06-20,Celana Jeans,Fashion,1,234571,234571
+2026-06-20,Celana Jeans,Fashion,4,249239,996956
+2026-06-20,Kaos Polos,Fashion,8,69695,557560
+2026-06-20,Power Bank 10000mAh,Elektronik,1,254090,254090
+2026-06-20,Set Pisau Dapur,Rumah Tangga,2,151167,302334
+2026-06-20,Tas Ransel,Fashion,7,194228,1359596
+2026-06-20,Mouse Wireless,Elektronik,7,120301,842107
+2026-06-20,Sneakers,Fashion,11,343775,3781525
+2026-06-20,Kipas Angin Meja,Elektronik,4,147588,590352
+2026-06-20,Sneakers,Fashion,7,345351,2417457
+2026-06-20,Set Pisau Dapur,Rumah Tangga,2,143874,287748
+2026-06-20,Kaos Polos,Fashion,5,69768,348840
+2026-06-20,Set Pisau Dapur,Rumah Tangga,2,138738,277476
+2026-06-20,Headset Bluetooth,Elektronik,2,172301,344602
+2026-06-21,Headset Bluetooth,Elektronik,6,195645,1173870
+2026-06-21,Kaos Polos,Fashion,8,72341,578728
+2026-06-21,Set Pisau Dapur,Rumah Tangga,8,136469,1091752
+2026-06-21,Lampu LED,Rumah Tangga,6,54759,328554
+2026-06-21,Sneakers,Fashion,6,304148,1824888
+2026-06-21,Sneakers,Fashion,10,312540,3125400
+2026-06-21,Kipas Angin Meja,Elektronik,1,143943,143943
+2026-06-21,Headset Bluetooth,Elektronik,6,182117,1092702
+2026-06-21,Kaos Polos,Fashion,11,71299,784289
+2026-06-21,Mouse Wireless,Elektronik,5,123437,617185
+2026-06-21,Botol Minum 1L,Rumah Tangga,1,62397,62397
+2026-06-21,Botol Minum 1L,Rumah Tangga,8,68203,545624
+2026-06-21,Power Bank 10000mAh,Elektronik,8,227383,1819064
+2026-06-21,Headset Bluetooth,Elektronik,5,198882,994410
+2026-06-21,Sneakers,Fashion,6,319264,1915584
+2026-06-22,Mouse Wireless,Elektronik,4,122579,490316
+2026-06-22,Kemeja Flanel,Fashion,4,176260,705040
+2026-06-22,Kemeja Flanel,Fashion,5,162967,814835
+2026-06-22,Tas Ransel,Fashion,2,201814,403628
+2026-06-22,Kaos Polos,Fashion,4,72560,290240
+2026-06-22,Kipas Angin Meja,Elektronik,3,156046,468138
+2026-06-22,Headset Bluetooth,Elektronik,7,171684,1201788
+2026-06-22,Set Pisau Dapur,Rumah Tangga,5,137052,685260
+2026-06-22,Power Bank 10000mAh,Elektronik,1,258772,258772
+2026-06-22,Lampu LED,Rumah Tangga,2,51198,102396
+2026-06-22,Sneakers,Fashion,6,300538,1803228
+2026-06-22,Lampu LED,Rumah Tangga,5,55831,279155
+2026-06-22,Power Bank 10000mAh,Elektronik,5,241833,1209165
+2026-06-22,Lampu LED,Rumah Tangga,3,55200,165600
+2026-06-22,Kaos Polos,Fashion,4,77036,308144
+2026-06-23,Mouse Wireless,Elektronik,3,128433,385299
+2026-06-23,Botol Minum 1L,Rumah Tangga,1,63088,63088
+2026-06-23,Headset Bluetooth,Elektronik,6,183765,1102590
+2026-06-23,Power Bank 10000mAh,Elektronik,5,246475,1232375
+2026-06-23,Kemeja Flanel,Fashion,3,155296,465888
+2026-06-23,Power Bank 10000mAh,Elektronik,3,259867,779601
+2026-06-23,Kemeja Flanel,Fashion,5,155964,779820
+2026-06-23,Kipas Angin Meja,Elektronik,5,150102,750510
+2026-06-23,Headset Bluetooth,Elektronik,7,189968,1329776
+2026-06-23,Tas Ransel,Fashion,2,182631,365262
+2026-06-23,Kemeja Flanel,Fashion,1,154847,154847
+2026-06-23,Kipas Angin Meja,Elektronik,3,156319,468957
+2026-06-23,Kemeja Flanel,Fashion,3,167767,503301
+2026-06-23,Kaos Polos,Fashion,6,77249,463494
+2026-06-23,Botol Minum 1L,Rumah Tangga,1,62411,62411
+2026-06-24,Sneakers,Fashion,2,336862,673724
+2026-06-24,Celana Jeans,Fashion,3,245194,735582
+2026-06-24,Mouse Wireless,Elektronik,6,129824,778944
+2026-06-24,Kipas Angin Meja,Elektronik,1,153206,153206
+2026-06-24,Power Bank 10000mAh,Elektronik,2,228349,456698
+2026-06-24,Set Pisau Dapur,Rumah Tangga,3,134235,402705
+2026-06-24,Lampu LED,Rumah Tangga,5,55462,277310
+2026-06-24,Mouse Wireless,Elektronik,3,115836,347508
+2026-06-24,Headset Bluetooth,Elektronik,6,196808,1180848
+2026-06-24,Kaos Polos,Fashion,7,77003,539021
+2026-06-24,Sneakers,Fashion,3,344260,1032780
+2026-06-24,Mouse Wireless,Elektronik,2,134524,269048
+2026-06-24,Sneakers,Fashion,6,295669,1774014
+2026-06-24,Tas Ransel,Fashion,2,206358,412716
+2026-06-24,Kemeja Flanel,Fashion,1,156002,156002
+2026-06-25,Headset Bluetooth,Elektronik,3,195614,586842
+2026-06-25,Botol Minum 1L,Rumah Tangga,2,63436,126872
+2026-06-25,Kaos Polos,Fashion,4,69283,277132
+2026-06-25,Celana Jeans,Fashion,1,226675,226675
+2026-06-25,Kemeja Flanel,Fashion,5,161070,805350
+2026-06-25,Sneakers,Fashion,7,329191,2304337
+2026-06-25,Headset Bluetooth,Elektronik,4,173614,694456
+2026-06-25,Lampu LED,Rumah Tangga,3,59070,177210
+2026-06-25,Headset Bluetooth,Elektronik,6,173408,1040448
+2026-06-25,Kipas Angin Meja,Elektronik,4,162103,648412
+2026-06-25,Lampu LED,Rumah Tangga,1,59261,59261
+2026-06-25,Sneakers,Fashion,4,340454,1361816
+2026-06-25,Headset Bluetooth,Elektronik,4,191180,764720
+2026-06-25,Set Pisau Dapur,Rumah Tangga,2,149335,298670
+2026-06-25,Celana Jeans,Fashion,3,232416,697248
+2026-06-26,Tas Ransel,Fashion,3,205858,617574
+2026-06-26,Set Pisau Dapur,Rumah Tangga,4,140575,562300
+2026-06-26,Celana Jeans,Fashion,3,231330,693990
+2026-06-26,Set Pisau Dapur,Rumah Tangga,4,136353,545412
+2026-06-26,Tas Ransel,Fashion,2,208739,417478
+2026-06-26,Lampu LED,Rumah Tangga,4,55608,222432
+2026-06-26,Set Pisau Dapur,Rumah Tangga,3,152742,458226
+2026-06-26,Kemeja Flanel,Fashion,5,157348,786740
+2026-06-26,Lampu LED,Rumah Tangga,4,56361,225444
+2026-06-26,Botol Minum 1L,Rumah Tangga,2,64398,128796
+2026-06-26,Set Pisau Dapur,Rumah Tangga,2,144377,288754
+2026-06-26,Tas Ransel,Fashion,5,182045,910225
+2026-06-26,Tas Ransel,Fashion,3,199147,597441
+2026-06-26,Power Bank 10000mAh,Elektronik,2,257482,514964
+2026-06-26,Tas Ransel,Fashion,2,189085,378170
+2026-06-27,Headset Bluetooth,Elektronik,11,177447,1951917
+2026-06-27,Power Bank 10000mAh,Elektronik,8,243252,1946016
+2026-06-27,Kaos Polos,Fashion,10,77620,776200
+2026-06-27,Sneakers,Fashion,3,306892,920676
+2026-06-27,Sneakers,Fashion,11,305604,3361644
+2026-06-27,Headset Bluetooth,Elektronik,5,186699,933495
+2026-06-27,Mouse Wireless,Elektronik,8,131028,1048224
+2026-06-27,Set Pisau Dapur,Rumah Tangga,6,147214,883284
+2026-06-27,Lampu LED,Rumah Tangga,8,57772,462176
+2026-06-27,Sneakers,Fashion,11,336925,3706175
+2026-06-27,Mouse Wireless,Elektronik,6,129873,779238
+2026-06-27,Botol Minum 1L,Rumah Tangga,3,62495,187485
+2026-06-27,Tas Ransel,Fashion,8,188052,1504416
+2026-06-27,Botol Minum 1L,Rumah Tangga,5,66318,331590
+2026-06-27,Botol Minum 1L,Rumah Tangga,5,60605,303025
+2026-06-28,Celana Jeans,Fashion,7,228221,1597547
+2026-06-28,Power Bank 10000mAh,Elektronik,2,230824,461648
+2026-06-28,Sneakers,Fashion,4,329930,1319720
+2026-06-28,Sneakers,Fashion,10,315269,3152690
+2026-06-28,Sneakers,Fashion,8,297588,2380704
+2026-06-28,Lampu LED,Rumah Tangga,1,58925,58925
+2026-06-28,Lampu LED,Rumah Tangga,1,53947,53947
+2026-06-28,Celana Jeans,Fashion,5,227427,1137135
+2026-06-28,Sneakers,Fashion,11,321956,3541516
+2026-06-28,Kaos Polos,Fashion,7,74858,524006
+2026-06-28,Botol Minum 1L,Rumah Tangga,4,60101,240404
+2026-06-28,Tas Ransel,Fashion,5,200589,1002945
+2026-06-28,Kipas Angin Meja,Elektronik,5,146693,733465
+2026-06-28,Mouse Wireless,Elektronik,7,134614,942298
+2026-06-28,Headset Bluetooth,Elektronik,11,197045,2167495
+2026-06-29,Power Bank 10000mAh,Elektronik,2,250595,501190
+2026-06-29,Botol Minum 1L,Rumah Tangga,3,61689,185067
+2026-06-29,Sneakers,Fashion,6,311160,1866960
+2026-06-29,Celana Jeans,Fashion,4,244822,979288
+2026-06-29,Kemeja Flanel,Fashion,4,171653,686612
+2026-06-29,Kemeja Flanel,Fashion,4,173841,695364
+2026-06-29,Headset Bluetooth,Elektronik,3,192371,577113
+2026-06-29,Kaos Polos,Fashion,2,76801,153602
+2026-06-29,Kaos Polos,Fashion,4,71392,285568
+2026-06-29,Mouse Wireless,Elektronik,4,119770,479080
+2026-06-29,Tas Ransel,Fashion,2,182968,365936
+2026-06-29,Botol Minum 1L,Rumah Tangga,3,67074,201222
+2026-06-29,Mouse Wireless,Elektronik,1,127117,127117
+2026-06-29,Mouse Wireless,Elektronik,1,134294,134294
+2026-06-29,Lampu LED,Rumah Tangga,3,50825,152475
+2026-06-30,Sneakers,Fashion,3,314708,944124
+2026-06-30,Lampu LED,Rumah Tangga,2,56677,113354
+2026-06-30,Power Bank 10000mAh,Elektronik,3,252729,758187
+2026-06-30,Tas Ransel,Fashion,1,198132,198132
+2026-06-30,Lampu LED,Rumah Tangga,3,57487,172461
+2026-06-30,Set Pisau Dapur,Rumah Tangga,3,143338,430014
+2026-06-30,Power Bank 10000mAh,Elektronik,3,245233,735699
+2026-06-30,Headset Bluetooth,Elektronik,5,195347,976735
+2026-06-30,Sneakers,Fashion,7,343592,2405144
+2026-06-30,Mouse Wireless,Elektronik,5,123709,618545
+2026-06-30,Tas Ransel,Fashion,5,187826,939130
+2026-06-30,Botol Minum 1L,Rumah Tangga,5,64634,323170
+2026-06-30,Kemeja Flanel,Fashion,2,160308,320616
+2026-06-30,Power Bank 10000mAh,Elektronik,4,236333,945332
+2026-06-30,Kaos Polos,Fashion,8,78005,624040
+2026-07-01,Celana Jeans,Fashion,3,217279,651837
+2026-07-01,Mouse Wireless,Elektronik,3,124750,374250
+2026-07-01,Kemeja Flanel,Fashion,5,160784,803920
+2026-07-01,Kipas Angin Meja,Elektronik,5,164426,822130
+2026-07-01,Headset Bluetooth,Elektronik,3,185492,556476
+2026-07-01,Kaos Polos,Fashion,7,77640,543480
+2026-07-01,Kaos Polos,Fashion,6,77287,463722
+2026-07-01,Headset Bluetooth,Elektronik,4,172954,691816
+2026-07-01,Kipas Angin Meja,Elektronik,5,148633,743165
+2026-07-01,Celana Jeans,Fashion,5,233994,1169970
+2026-07-01,Celana Jeans,Fashion,5,232198,1160990
+2026-07-01,Celana Jeans,Fashion,4,229428,917712
+2026-07-01,Kemeja Flanel,Fashion,2,159894,319788
+2026-07-01,Power Bank 10000mAh,Elektronik,3,253674,761022
+2026-07-01,Power Bank 10000mAh,Elektronik,2,254520,509040
+2026-07-02,Kipas Angin Meja,Elektronik,5,154608,773040
+2026-07-02,Set Pisau Dapur,Rumah Tangga,1,147245,147245
+2026-07-02,Kaos Polos,Fashion,4,72554,290216
+2026-07-02,Kemeja Flanel,Fashion,5,152173,760865
+2026-07-02,Mouse Wireless,Elektronik,1,120486,120486
+2026-07-02,Set Pisau Dapur,Rumah Tangga,2,140177,280354
+2026-07-02,Tas Ransel,Fashion,4,206495,825980
+2026-07-02,Power Bank 10000mAh,Elektronik,5,259610,1298050
+2026-07-02,Kemeja Flanel,Fashion,4,164192,656768
+2026-07-02,Celana Jeans,Fashion,1,223132,223132
+2026-07-02,Kemeja Flanel,Fashion,4,176644,706576
+2026-07-02,Power Bank 10000mAh,Elektronik,4,257626,1030504
+2026-07-02,Botol Minum 1L,Rumah Tangga,1,60570,60570
+2026-07-02,Mouse Wireless,Elektronik,5,117983,589915
+2026-07-02,Kemeja Flanel,Fashion,2,154048,308096
+2026-07-03,Sneakers,Fashion,7,325443,2278101
+2026-07-03,Set Pisau Dapur,Rumah Tangga,5,142224,711120
+2026-07-03,Kemeja Flanel,Fashion,5,174508,872540
+2026-07-03,Kemeja Flanel,Fashion,1,166811,166811
+2026-07-03,Lampu LED,Rumah Tangga,1,59048,59048
+2026-07-03,Kaos Polos,Fashion,7,76506,535542
+2026-07-03,Power Bank 10000mAh,Elektronik,2,231556,463112
+2026-07-03,Set Pisau Dapur,Rumah Tangga,1,135141,135141
+2026-07-03,Sneakers,Fashion,8,317465,2539720
+2026-07-03,Kemeja Flanel,Fashion,3,152661,457983
+2026-07-03,Kipas Angin Meja,Elektronik,5,149611,748055
+2026-07-03,Power Bank 10000mAh,Elektronik,3,252345,757035
+2026-07-03,Tas Ransel,Fashion,2,197801,395602
+2026-07-03,Sneakers,Fashion,6,300276,1801656
+2026-07-03,Mouse Wireless,Elektronik,2,133168,266336
+2026-07-04,Mouse Wireless,Elektronik,8,130852,1046816
+2026-07-04,Kipas Angin Meja,Elektronik,5,163041,815205
+2026-07-04,Botol Minum 1L,Rumah Tangga,5,61093,305465
+2026-07-04,Kipas Angin Meja,Elektronik,5,152582,762910
+2026-07-04,Set Pisau Dapur,Rumah Tangga,6,145927,875562
+2026-07-04,Power Bank 10000mAh,Elektronik,6,248843,1493058
+2026-07-04,Kipas Angin Meja,Elektronik,5,150593,752965
+2026-07-04,Headset Bluetooth,Elektronik,13,172903,2247739
+2026-07-04,Headset Bluetooth,Elektronik,10,199787,1997870
+2026-07-04,Headset Bluetooth,Elektronik,6,192788,1156728
+2026-07-04,Set Pisau Dapur,Rumah Tangga,5,148515,742575
+2026-07-04,Mouse Wireless,Elektronik,6,134938,809628
+2026-07-04,Tas Ransel,Fashion,1,204804,204804
+2026-07-04,Botol Minum 1L,Rumah Tangga,5,63418,317090
+2026-07-04,Celana Jeans,Fashion,3,241397,724191
+2026-07-05,Kipas Angin Meja,Elektronik,5,154887,774435
+2026-07-05,Set Pisau Dapur,Rumah Tangga,1,134251,134251
+2026-07-05,Celana Jeans,Fashion,1,225690,225690
+2026-07-05,Sneakers,Fashion,5,338683,1693415
+2026-07-05,Set Pisau Dapur,Rumah Tangga,1,144117,144117
+2026-07-05,Kaos Polos,Fashion,10,75221,752210
+2026-07-05,Tas Ransel,Fashion,1,193191,193191
+2026-07-05,Kaos Polos,Fashion,5,72204,361020
+2026-07-05,Botol Minum 1L,Rumah Tangga,5,68960,344800
+2026-07-05,Power Bank 10000mAh,Elektronik,7,226531,1585717
+2026-07-05,Kaos Polos,Fashion,8,77517,620136
+2026-07-05,Headset Bluetooth,Elektronik,2,186546,373092
+2026-07-05,Power Bank 10000mAh,Elektronik,1,243488,243488
+2026-07-05,Tas Ransel,Fashion,5,205362,1026810
+2026-07-05,Kipas Angin Meja,Elektronik,4,149838,599352
+2026-07-06,Botol Minum 1L,Rumah Tangga,2,69994,139988
+2026-07-06,Botol Minum 1L,Rumah Tangga,4,65533,262132
+2026-07-06,Kaos Polos,Fashion,8,80062,640496
+2026-07-06,Mouse Wireless,Elektronik,3,132280,396840
+2026-07-06,Sneakers,Fashion,7,311801,2182607
+2026-07-06,Headset Bluetooth,Elektronik,6,178572,1071432
+2026-07-06,Lampu LED,Rumah Tangga,4,59390,237560
+2026-07-06,Mouse Wireless,Elektronik,4,123930,495720
+2026-07-06,Celana Jeans,Fashion,5,228699,1143495
+2026-07-06,Sneakers,Fashion,4,317713,1270852
+2026-07-06,Kipas Angin Meja,Elektronik,4,148522,594088
+2026-07-06,Kaos Polos,Fashion,5,79272,396360
+2026-07-06,Celana Jeans,Fashion,4,244200,976800
+2026-07-06,Sneakers,Fashion,4,345006,1380024
+2026-07-06,Headset Bluetooth,Elektronik,7,173936,1217552
+2026-07-07,Botol Minum 1L,Rumah Tangga,4,60837,243348
+2026-07-07,Headset Bluetooth,Elektronik,7,191584,1341088
+2026-07-07,Mouse Wireless,Elektronik,3,116496,349488
+2026-07-07,Celana Jeans,Fashion,4,239634,958536
+2026-07-07,Tas Ransel,Fashion,3,181905,545715
+2026-07-07,Tas Ransel,Fashion,4,206211,824844
+2026-07-07,Celana Jeans,Fashion,4,239767,959068
+2026-07-07,Set Pisau Dapur,Rumah Tangga,1,134232,134232
+2026-07-07,Kaos Polos,Fashion,4,76573,306292
+2026-07-07,Kipas Angin Meja,Elektronik,1,144841,144841
+2026-07-07,Tas Ransel,Fashion,1,201361,201361
+2026-07-07,Botol Minum 1L,Rumah Tangga,3,61530,184590
+2026-07-07,Headset Bluetooth,Elektronik,3,171561,514683
+2026-07-07,Celana Jeans,Fashion,2,230294,460588
+2026-07-07,Kaos Polos,Fashion,8,75373,602984
+2026-07-08,Mouse Wireless,Elektronik,5,118501,592505
+2026-07-08,Sneakers,Fashion,4,326129,1304516
+2026-07-08,Lampu LED,Rumah Tangga,4,51859,207436
+2026-07-08,Tas Ransel,Fashion,3,187324,561972
+2026-07-08,Tas Ransel,Fashion,4,179693,718772
+2026-07-08,Kemeja Flanel,Fashion,2,169688,339376
+2026-07-08,Power Bank 10000mAh,Elektronik,3,242715,728145
+2026-07-08,Lampu LED,Rumah Tangga,4,53232,212928
+2026-07-08,Kipas Angin Meja,Elektronik,3,148802,446406
+2026-07-08,Kaos Polos,Fashion,5,80992,404960
+2026-07-08,Kaos Polos,Fashion,6,73576,441456
+2026-07-08,Kemeja Flanel,Fashion,3,178007,534021
+2026-07-08,Headset Bluetooth,Elektronik,6,199147,1194882
+2026-07-08,Headset Bluetooth,Elektronik,4,186951,747804
+2026-07-08,Kipas Angin Meja,Elektronik,3,154918,464754
+2026-07-09,Kaos Polos,Fashion,4,76284,305136
+2026-07-09,Tas Ransel,Fashion,3,185332,555996
+2026-07-09,Tas Ransel,Fashion,2,202974,405948
+2026-07-09,Tas Ransel,Fashion,1,182431,182431
+2026-07-09,Kemeja Flanel,Fashion,1,172619,172619
+2026-07-09,Lampu LED,Rumah Tangga,2,53810,107620
+2026-07-09,Power Bank 10000mAh,Elektronik,3,261057,783171
+2026-07-09,Kipas Angin Meja,Elektronik,2,152904,305808
+2026-07-09,Mouse Wireless,Elektronik,3,130730,392190
+2026-07-09,Set Pisau Dapur,Rumah Tangga,3,145041,435123
+2026-07-09,Mouse Wireless,Elektronik,4,120139,480556
+2026-07-09,Kemeja Flanel,Fashion,3,171509,514527
+2026-07-09,Power Bank 10000mAh,Elektronik,1,243758,243758
+2026-07-09,Mouse Wireless,Elektronik,2,130083,260166
+2026-07-09,Tas Ransel,Fashion,4,201995,807980
+2026-07-10,Set Pisau Dapur,Rumah Tangga,4,141885,567540
+2026-07-10,Headset Bluetooth,Elektronik,3,178027,534081
+2026-07-10,Celana Jeans,Fashion,3,241498,724494
+2026-07-10,Lampu LED,Rumah Tangga,3,53953,161859
+2026-07-10,Power Bank 10000mAh,Elektronik,4,251853,1007412
+2026-07-10,Headset Bluetooth,Elektronik,7,188538,1319766
+2026-07-10,Lampu LED,Rumah Tangga,1,52548,52548
+2026-07-10,Tas Ransel,Fashion,3,205104,615312
+2026-07-10,Tas Ransel,Fashion,2,192138,384276
+2026-07-10,Headset Bluetooth,Elektronik,5,198209,991045
+2026-07-10,Power Bank 10000mAh,Elektronik,5,229209,1146045
+2026-07-10,Mouse Wireless,Elektronik,3,122772,368316
+2026-07-10,Tas Ransel,Fashion,5,209020,1045100
+2026-07-10,Sneakers,Fashion,4,324471,1297884
+2026-07-10,Tas Ransel,Fashion,4,182489,729956
+2026-07-11,Kemeja Flanel,Fashion,4,152663,610652
+2026-07-11,Kaos Polos,Fashion,5,74320,371600
+2026-07-11,Power Bank 10000mAh,Elektronik,4,263852,1055408
+2026-07-11,Set Pisau Dapur,Rumah Tangga,4,154319,617276
+2026-07-11,Headset Bluetooth,Elektronik,4,181984,727936
+2026-07-11,Botol Minum 1L,Rumah Tangga,2,60753,121506
+2026-07-11,Tas Ransel,Fashion,1,199352,199352
+2026-07-11,Headset Bluetooth,Elektronik,4,193489,773956
+2026-07-11,Lampu LED,Rumah Tangga,7,52405,366835
+2026-07-11,Kaos Polos,Fashion,5,76036,380180
+2026-07-11,Mouse Wireless,Elektronik,7,130772,915404
+2026-07-11,Headset Bluetooth,Elektronik,4,178407,713628
+2026-07-11,Set Pisau Dapur,Rumah Tangga,2,139215,278430
+2026-07-11,Power Bank 10000mAh,Elektronik,1,251313,251313
+2026-07-11,Mouse Wireless,Elektronik,2,115297,230594
+2026-07-12,Headset Bluetooth,Elektronik,2,175357,350714
+2026-07-12,Kipas Angin Meja,Elektronik,1,153039,153039
+2026-07-12,Kipas Angin Meja,Elektronik,5,144176,720880
+2026-07-12,Celana Jeans,Fashion,1,235497,235497
+2026-07-12,Botol Minum 1L,Rumah Tangga,7,65039,455273
+2026-07-12,Headset Bluetooth,Elektronik,10,191726,1917260
+2026-07-12,Botol Minum 1L,Rumah Tangga,1,66490,66490
+2026-07-12,Headset Bluetooth,Elektronik,8,199758,1598064
+2026-07-12,Tas Ransel,Fashion,5,182768,913840
+2026-07-12,Power Bank 10000mAh,Elektronik,4,260651,1042604
+2026-07-12,Lampu LED,Rumah Tangga,2,51905,103810
+2026-07-12,Kemeja Flanel,Fashion,7,168281,1177967
+2026-07-12,Set Pisau Dapur,Rumah Tangga,5,149921,749605
+2026-07-12,Lampu LED,Rumah Tangga,5,55268,276340
+2026-07-12,Set Pisau Dapur,Rumah Tangga,1,147445,147445
+2026-07-13,Power Bank 10000mAh,Elektronik,5,258829,1294145
+2026-07-13,Kipas Angin Meja,Elektronik,4,164064,656256
+2026-07-13,Botol Minum 1L,Rumah Tangga,4,69036,276144
+2026-07-13,Celana Jeans,Fashion,4,247310,989240
+2026-07-13,Sneakers,Fashion,5,331756,1658780
+2026-07-13,Celana Jeans,Fashion,3,241208,723624
+2026-07-13,Mouse Wireless,Elektronik,4,128736,514944
+2026-07-13,Power Bank 10000mAh,Elektronik,1,228976,228976
+2026-07-13,Power Bank 10000mAh,Elektronik,3,242329,726987
+2026-07-13,Mouse Wireless,Elektronik,5,126127,630635
+2026-07-13,Set Pisau Dapur,Rumah Tangga,1,146431,146431
+2026-07-13,Sneakers,Fashion,7,312504,2187528
+2026-07-13,Headset Bluetooth,Elektronik,7,198864,1392048
+2026-07-13,Celana Jeans,Fashion,5,220095,1100475
+2026-07-13,Kaos Polos,Fashion,5,70856,354280
+2026-07-14,Celana Jeans,Fashion,3,247986,743958
+2026-07-14,Power Bank 10000mAh,Elektronik,5,255294,1276470
+2026-07-14,Kaos Polos,Fashion,8,78686,629488
+2026-07-14,Lampu LED,Rumah Tangga,5,56539,282695
+2026-07-14,Headset Bluetooth,Elektronik,4,188226,752904
+2026-07-14,Mouse Wireless,Elektronik,3,120465,361395
+2026-07-14,Celana Jeans,Fashion,2,229398,458796
+2026-07-14,Mouse Wireless,Elektronik,4,126326,505304
+2026-07-14,Power Bank 10000mAh,Elektronik,1,230961,230961
+2026-07-14,Power Bank 10000mAh,Elektronik,2,254647,509294
+2026-07-14,Sneakers,Fashion,4,315895,1263580
+2026-07-14,Celana Jeans,Fashion,3,227917,683751
+2026-07-14,Lampu LED,Rumah Tangga,1,55846,55846
+2026-07-14,Mouse Wireless,Elektronik,5,118148,590740
+2026-07-14,Headset Bluetooth,Elektronik,5,190149,950745
+2026-07-15,Botol Minum 1L,Rumah Tangga,4,66113,264452
+2026-07-15,Kemeja Flanel,Fashion,5,157491,787455
+2026-07-15,Power Bank 10000mAh,Elektronik,1,238930,238930
+2026-07-15,Kemeja Flanel,Fashion,5,169704,848520
+2026-07-15,Botol Minum 1L,Rumah Tangga,3,65280,195840
+2026-07-15,Headset Bluetooth,Elektronik,6,176727,1060362
+2026-07-15,Headset Bluetooth,Elektronik,3,176250,528750
+2026-07-15,Kemeja Flanel,Fashion,1,159441,159441
+2026-07-15,Headset Bluetooth,Elektronik,5,184922,924610
+2026-07-15,Mouse Wireless,Elektronik,2,122604,245208
+2026-07-15,Set Pisau Dapur,Rumah Tangga,3,146362,439086
+2026-07-15,Power Bank 10000mAh,Elektronik,1,240965,240965
+2026-07-15,Sneakers,Fashion,3,295359,886077
+2026-07-15,Lampu LED,Rumah Tangga,4,54377,217508
+2026-07-15,Kipas Angin Meja,Elektronik,3,158475,475425
+2026-07-16,Headset Bluetooth,Elektronik,6,198799,1192794
+2026-07-16,Botol Minum 1L,Rumah Tangga,3,68453,205359
+2026-07-16,Power Bank 10000mAh,Elektronik,1,242519,242519
+2026-07-16,Kaos Polos,Fashion,8,74228,593824
+2026-07-16,Power Bank 10000mAh,Elektronik,3,240914,722742
+2026-07-16,Kipas Angin Meja,Elektronik,3,151019,453057
+2026-07-16,Mouse Wireless,Elektronik,1,116527,116527
+2026-07-16,Set Pisau Dapur,Rumah Tangga,3,145230,435690
+2026-07-16,Celana Jeans,Fashion,2,243549,487098
+2026-07-16,Kaos Polos,Fashion,5,70233,351165
+2026-07-16,Mouse Wireless,Elektronik,1,127047,127047
+2026-07-16,Mouse Wireless,Elektronik,5,134025,670125
+2026-07-16,Botol Minum 1L,Rumah Tangga,6,67646,405876
+2026-07-16,Botol Minum 1L,Rumah Tangga,6,66883,401298
+2026-07-16,Tas Ransel,Fashion,6,199221,1195326
+2026-07-17,Tas Ransel,Fashion,4,189263,757052
+2026-07-17,Power Bank 10000mAh,Elektronik,3,243781,731343
+2026-07-17,Kemeja Flanel,Fashion,3,167413,502239
+2026-07-17,Set Pisau Dapur,Rumah Tangga,4,135121,540484
+2026-07-17,Botol Minum 1L,Rumah Tangga,3,60191,180573
+2026-07-17,Kemeja Flanel,Fashion,1,153825,153825
+2026-07-17,Lampu LED,Rumah Tangga,4,55827,223308
+2026-07-17,Botol Minum 1L,Rumah Tangga,1,65835,65835
+2026-07-17,Botol Minum 1L,Rumah Tangga,5,69254,346270
+2026-07-17,Tas Ransel,Fashion,5,185273,926365
+2026-07-17,Botol Minum 1L,Rumah Tangga,1,65014,65014
+2026-07-17,Botol Minum 1L,Rumah Tangga,3,60876,182628
+2026-07-17,Kipas Angin Meja,Elektronik,2,144691,289382
+2026-07-17,Headset Bluetooth,Elektronik,6,177533,1065198
+2026-07-17,Set Pisau Dapur,Rumah Tangga,2,145527,291054
+2026-07-18,Kemeja Flanel,Fashion,4,162027,648108
+2026-07-18,Tas Ransel,Fashion,4,198054,792216
+2026-07-18,Power Bank 10000mAh,Elektronik,7,238323,1668261
+2026-07-18,Tas Ransel,Fashion,4,191460,765840
+2026-07-18,Kipas Angin Meja,Elektronik,7,163718,1146026
+2026-07-18,Mouse Wireless,Elektronik,7,121667,851669
+2026-07-18,Tas Ransel,Fashion,4,183812,735248
+2026-07-18,Kemeja Flanel,Fashion,5,177347,886735
+2026-07-18,Mouse Wireless,Elektronik,1,126900,126900
+2026-07-18,Kemeja Flanel,Fashion,4,166555,666220
+2026-07-18,Mouse Wireless,Elektronik,7,128402,898814
+2026-07-18,Power Bank 10000mAh,Elektronik,5,250724,1253620
+2026-07-18,Set Pisau Dapur,Rumah Tangga,4,141794,567176
+2026-07-18,Kemeja Flanel,Fashion,2,156558,313116
+2026-07-18,Celana Jeans,Fashion,5,251832,1259160
+2026-07-19,Mouse Wireless,Elektronik,4,118098,472392
+2026-07-19,Power Bank 10000mAh,Elektronik,7,245301,1717107
+2026-07-19,Kipas Angin Meja,Elektronik,1,164515,164515
+2026-07-19,Tas Ransel,Fashion,7,189907,1329349
+2026-07-19,Mouse Wireless,Elektronik,2,126944,253888
+2026-07-19,Mouse Wireless,Elektronik,7,118616,830312
+2026-07-19,Mouse Wireless,Elektronik,1,129423,129423
+2026-07-19,Sneakers,Fashion,5,313052,1565260
+2026-07-19,Lampu LED,Rumah Tangga,5,53107,265535
+2026-07-19,Kaos Polos,Fashion,7,75408,527856
+2026-07-19,Kaos Polos,Fashion,10,73414,734140
+2026-07-19,Botol Minum 1L,Rumah Tangga,5,67802,339010
+2026-07-19,Set Pisau Dapur,Rumah Tangga,2,145637,291274
+2026-07-19,Kaos Polos,Fashion,5,78615,393075
+2026-07-19,Headset Bluetooth,Elektronik,8,189178,1513424
+2026-07-20,Kipas Angin Meja,Elektronik,1,163578,163578
+2026-07-20,Kemeja Flanel,Fashion,2,154014,308028
+2026-07-20,Kemeja Flanel,Fashion,5,163662,818310
+2026-07-20,Mouse Wireless,Elektronik,1,131620,131620
+2026-07-20,Kaos Polos,Fashion,4,78800,315200
+2026-07-20,Sneakers,Fashion,7,297126,2079882
+2026-07-20,Kaos Polos,Fashion,3,73633,220899
+2026-07-20,Kaos Polos,Fashion,4,69338,277352
+2026-07-20,Tas Ransel,Fashion,2,189861,379722
+2026-07-20,Mouse Wireless,Elektronik,4,115766,463064
+2026-07-20,Kipas Angin Meja,Elektronik,4,163211,652844
+2026-07-20,Botol Minum 1L,Rumah Tangga,1,66199,66199
+2026-07-20,Headset Bluetooth,Elektronik,5,177775,888875
+2026-07-20,Kipas Angin Meja,Elektronik,4,157700,630800
+2026-07-20,Power Bank 10000mAh,Elektronik,2,255825,511650
+2026-07-21,Headset Bluetooth,Elektronik,7,177257,1240799
+2026-07-21,Power Bank 10000mAh,Elektronik,4,229745,918980
+2026-07-21,Lampu LED,Rumah Tangga,5,55317,276585
+2026-07-21,Lampu LED,Rumah Tangga,2,52729,105458
+2026-07-21,Kemeja Flanel,Fashion,5,163131,815655
+2026-07-21,Celana Jeans,Fashion,4,225245,900980
+2026-07-21,Mouse Wireless,Elektronik,1,128287,128287
+2026-07-21,Set Pisau Dapur,Rumah Tangga,1,156011,156011
+2026-07-21,Set Pisau Dapur,Rumah Tangga,5,146022,730110
+2026-07-21,Set Pisau Dapur,Rumah Tangga,4,133871,535484
+2026-07-21,Headset Bluetooth,Elektronik,5,189015,945075
+2026-07-21,Kipas Angin Meja,Elektronik,1,143002,143002
+2026-07-21,Celana Jeans,Fashion,1,225266,225266
+2026-07-21,Lampu LED,Rumah Tangga,3,57069,171207
+2026-07-21,Mouse Wireless,Elektronik,5,115886,579430
+2026-07-22,Tas Ransel,Fashion,4,184862,739448
+2026-07-22,Kipas Angin Meja,Elektronik,2,154467,308934
+2026-07-22,Mouse Wireless,Elektronik,4,116262,465048
+2026-07-22,Headset Bluetooth,Elektronik,2,178885,357770
+2026-07-22,Headset Bluetooth,Elektronik,6,179541,1077246
+2026-07-22,Sneakers,Fashion,7,345043,2415301
+2026-07-22,Kemeja Flanel,Fashion,2,152766,305532
+2026-07-22,Kemeja Flanel,Fashion,1,161224,161224
+2026-07-22,Tas Ransel,Fashion,1,189756,189756
+2026-07-22,Celana Jeans,Fashion,4,232629,930516
+2026-07-22,Kipas Angin Meja,Elektronik,4,153505,614020
+2026-07-22,Celana Jeans,Fashion,4,252812,1011248
+2026-07-22,Kipas Angin Meja,Elektronik,5,154938,774690
+2026-07-22,Kemeja Flanel,Fashion,4,172950,691800
+2026-07-22,Power Bank 10000mAh,Elektronik,2,242279,484558
+2026-07-23,Celana Jeans,Fashion,3,220057,660171
+2026-07-23,Tas Ransel,Fashion,4,188623,754492
+2026-07-23,Lampu LED,Rumah Tangga,2,56915,113830
+2026-07-23,Kipas Angin Meja,Elektronik,4,153608,614432
+2026-07-23,Headset Bluetooth,Elektronik,6,191713,1150278
+2026-07-23,Sneakers,Fashion,2,308457,616914
+2026-07-23,Tas Ransel,Fashion,3,199290,597870
+2026-07-23,Set Pisau Dapur,Rumah Tangga,2,151985,303970
+2026-07-23,Headset Bluetooth,Elektronik,8,174426,1395408
+2026-07-23,Botol Minum 1L,Rumah Tangga,1,60161,60161
+2026-07-23,Kaos Polos,Fashion,5,78342,391710
+2026-07-23,Sneakers,Fashion,4,343012,1372048
+2026-07-23,Mouse Wireless,Elektronik,3,128581,385743
+2026-07-23,Celana Jeans,Fashion,1,232892,232892
+2026-07-23,Lampu LED,Rumah Tangga,3,51811,155433
+2026-07-24,Tas Ransel,Fashion,1,188095,188095
+2026-07-24,Headset Bluetooth,Elektronik,7,191975,1343825
+2026-07-24,Sneakers,Fashion,3,341173,1023519
+2026-07-24,Kemeja Flanel,Fashion,2,170386,340772
+2026-07-24,Lampu LED,Rumah Tangga,4,53113,212452
+2026-07-24,Kaos Polos,Fashion,3,70471,211413
+2026-07-24,Mouse Wireless,Elektronik,4,132973,531892
+2026-07-24,Power Bank 10000mAh,Elektronik,3,257172,771516
+2026-07-24,Tas Ransel,Fashion,1,190239,190239
+2026-07-24,Set Pisau Dapur,Rumah Tangga,3,145978,437934
+2026-07-24,Mouse Wireless,Elektronik,2,129236,258472
+2026-07-24,Celana Jeans,Fashion,1,235329,235329
+2026-07-24,Kaos Polos,Fashion,4,78504,314016
+2026-07-24,Headset Bluetooth,Elektronik,7,180882,1266174
+2026-07-24,Botol Minum 1L,Rumah Tangga,5,68158,340790
+2026-07-25,Power Bank 10000mAh,Elektronik,6,227977,1367862
+2026-07-25,Kipas Angin Meja,Elektronik,8,160427,1283416
+2026-07-25,Sneakers,Fashion,10,333781,3337810
+2026-07-25,Mouse Wireless,Elektronik,1,134447,134447
+2026-07-25,Botol Minum 1L,Rumah Tangga,8,64644,517152
+2026-07-25,Celana Jeans,Fashion,8,221025,1768200
+2026-07-25,Tas Ransel,Fashion,3,197738,593214
+2026-07-25,Sneakers,Fashion,3,320146,960438
+2026-07-25,Set Pisau Dapur,Rumah Tangga,3,136949,410847
+2026-07-25,Mouse Wireless,Elektronik,3,121453,364359
+2026-07-25,Celana Jeans,Fashion,8,251825,2014600
+2026-07-25,Kemeja Flanel,Fashion,5,174132,870660
+2026-07-25,Kaos Polos,Fashion,11,76620,842820
+2026-07-25,Mouse Wireless,Elektronik,8,127500,1020000
+2026-07-25,Set Pisau Dapur,Rumah Tangga,3,135567,406701
+2026-07-26,Lampu LED,Rumah Tangga,7,51956,363692
+2026-07-26,Kipas Angin Meja,Elektronik,4,164969,659876
+2026-07-26,Lampu LED,Rumah Tangga,1,50962,50962
+2026-07-26,Power Bank 10000mAh,Elektronik,7,227182,1590274
+2026-07-26,Kemeja Flanel,Fashion,7,168989,1182923
+2026-07-26,Sneakers,Fashion,4,326047,1304188
+2026-07-26,Tas Ransel,Fashion,4,196422,785688
+2026-07-26,Botol Minum 1L,Rumah Tangga,5,62346,311730
+2026-07-26,Kemeja Flanel,Fashion,1,163773,163773
+2026-07-26,Mouse Wireless,Elektronik,5,123792,618960
+2026-07-26,Botol Minum 1L,Rumah Tangga,7,61921,433447
+2026-07-26,Mouse Wireless,Elektronik,4,121251,485004
+2026-07-26,Kipas Angin Meja,Elektronik,4,167102,668408
+2026-07-26,Sneakers,Fashion,8,301095,2408760
+2026-07-26,Set Pisau Dapur,Rumah Tangga,2,135863,271726
+2026-07-27,Kemeja Flanel,Fashion,2,163669,327338
+2026-07-27,Power Bank 10000mAh,Elektronik,4,227383,909532
+2026-07-27,Lampu LED,Rumah Tangga,2,54279,108558
+2026-07-27,Celana Jeans,Fashion,3,251309,753927
+2026-07-27,Kaos Polos,Fashion,7,78157,547099
+2026-07-27,Botol Minum 1L,Rumah Tangga,3,64987,194961
+2026-07-27,Botol Minum 1L,Rumah Tangga,4,60041,240164
+2026-07-27,Set Pisau Dapur,Rumah Tangga,2,144007,288014
+2026-07-27,Kaos Polos,Fashion,2,76000,152000
+2026-07-27,Kemeja Flanel,Fashion,4,164865,659460
+2026-07-27,Kemeja Flanel,Fashion,1,165968,165968
+2026-07-27,Sneakers,Fashion,6,301257,1807542
+2026-07-27,Celana Jeans,Fashion,3,244921,734763
+2026-07-27,Headset Bluetooth,Elektronik,8,182057,1456456
+2026-07-27,Kaos Polos,Fashion,4,73350,293400
+2026-07-28,Botol Minum 1L,Rumah Tangga,3,67749,203247
+2026-07-28,Lampu LED,Rumah Tangga,1,56587,56587
+2026-07-28,Mouse Wireless,Elektronik,4,134501,538004
+2026-07-28,Celana Jeans,Fashion,3,246088,738264
+2026-07-28,Set Pisau Dapur,Rumah Tangga,2,155183,310366
+2026-07-28,Kaos Polos,Fashion,7,76229,533603
+2026-07-28,Headset Bluetooth,Elektronik,5,171540,857700
+2026-07-28,Celana Jeans,Fashion,5,246429,1232145
+2026-07-28,Botol Minum 1L,Rumah Tangga,5,61348,306740
+2026-07-28,Mouse Wireless,Elektronik,5,121559,607795
+2026-07-28,Celana Jeans,Fashion,5,222310,1111550
+2026-07-28,Kipas Angin Meja,Elektronik,5,163496,817480
+2026-07-28,Celana Jeans,Fashion,5,235275,1176375
+2026-07-28,Set Pisau Dapur,Rumah Tangga,5,144764,723820
+2026-07-28,Kemeja Flanel,Fashion,1,164337,164337

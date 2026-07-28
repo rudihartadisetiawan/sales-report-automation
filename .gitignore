@@ -1,0 +1,9 @@
+service-account-key.json
+client_secret.json
+gmail_token.json
+__pycache__/
+*.pyc
+.env
+*.log
+venv/
+frontend/out/
